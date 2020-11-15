@@ -4,9 +4,9 @@
 
 #### Here below are some of the content I created
 
-#### Manipulating and Visualizing Data with Python, and complementary tools
 
-## Projected Population by 2100
+
+## Project #1 : Projected Population by 2100
 Values are based on United Nations forecast of population by country (https://population.un.org/wpp/)
 
 Abilities & tools used:
@@ -18,11 +18,11 @@ Abilities & tools used:
 ![Bar chart race 2020-11-15](https://user-images.githubusercontent.com/70572715/99188926-e22de600-275e-11eb-8461-5050a3e1fdf6.gif)
 
 
-## Dash project
+## Project #2 : Dash project
 
 Work in progress !
 
-#### Implementing Machine Learning 
+## Project #3 : Choosing best Machine Learning algorithm to solve a business case
 
 In progress !
 

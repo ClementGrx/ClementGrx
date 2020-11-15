@@ -3,7 +3,7 @@
 <!--
 **ClementGrx/ClementGrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](Bar chart race 2020-11-15.gif.gif)
+![](Bar chart race 2020-11-15.gif)
 
 Here are some ideas to get you started:
 

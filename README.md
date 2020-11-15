@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![](Bar chart race 2020-11-15.gif)
+
+![](/main/Bar chart race 2020-11-15.gif)
 
 Here are some ideas to get you started:
 

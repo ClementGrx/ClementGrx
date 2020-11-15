@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Clément, a future Data Analyst !
 #### Early 2020, after 7 years working as a Business Controller and Internal Auditor, I decided to retrain to the awesome field of Data Analytics and Data Science !
-#### I am currently studying at a Coding school in Paris, and will get my certification in February 2021 (Python, SQL, Machine Learning, Statistics...)
+#### I am currently studying at a Coding school in Paris, and will get my certification in February 2021 (Python, SQL, Machine Learning, Statistics...).  
 
-#### Here below are some of the content I created
-
+#### Here below are some of the content I created.  
+   
 
 
 ## Project #1 : Projected Population by 2100
@@ -15,16 +15,16 @@ Abilities & tools used:
 - Feature engineering using some lambda functions, apply() method, and a library to convert countries codes to continent codes (pycountry-convert)
 - Floorish Studio bar chart race tool (https://public.flourish.studio/visualisation/4247040/)
  
-![Bar chart race 2020-11-15](https://user-images.githubusercontent.com/70572715/99188926-e22de600-275e-11eb-8461-5050a3e1fdf6.gif)
+![Bar chart race 2020-11-15](https://user-images.githubusercontent.com/70572715/99188926-e22de600-275e-11eb-8461-5050a3e1fdf6.gif)  
 
+   
+## Project #2 : Dash / Plotly project
 
-## Project #2 : Dash project
-
-Work in progress !
+Work in progress !     
 
 ## Project #3 : Choosing best Machine Learning algorithm to solve a business case
 
-In progress !
+In progress !     
 
 
 Here are some additional information :

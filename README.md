@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-![Blabla](Bar chart race 2020-11-15.gif)
+![Bar chart race 2020-11-15](https://user-images.githubusercontent.com/70572715/99188926-e22de600-275e-11eb-8461-5050a3e1fdf6.gif)
+
 
 Here are some ideas to get you started:
 

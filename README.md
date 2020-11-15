@@ -16,13 +16,14 @@ Abilities & tools used:
 - Floorish Studio bar chart race tool (https://public.flourish.studio/visualisation/4247040/)
  
 ![Bar chart race 2020-11-15](https://user-images.githubusercontent.com/70572715/99188926-e22de600-275e-11eb-8461-5050a3e1fdf6.gif)  
-
 <br>
+
 ## Project #2 : Dash / Plotly project
 
 Work in progress !     
 <br>
 <br>
+
 ## Project #3 : Choosing best Machine Learning algorithm to solve a business case
 
 In progress !     

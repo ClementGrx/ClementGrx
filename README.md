@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Clément, a future Data Analyst !
 #### Early 2020, after 7 years working as a Business Controller and Internal Auditor, I decided to retrain to the awesome field of Data Analytics and Data Science !
-#### I am currently learning all the Tech stuff at a Coding school in Paris, and will get my certification in February 2021
+#### I am currently studying at a Coding school in Paris, and will get my certification in February 2021 (Python, SQL, Machine Learning, Statistics...)
 
 #### Here below are some of the content I created
 
@@ -18,12 +18,20 @@ Abilities & tools used:
 ![Bar chart race 2020-11-15](https://user-images.githubusercontent.com/70572715/99188926-e22de600-275e-11eb-8461-5050a3e1fdf6.gif)
 
 
+## Dash project
+
+Work in progress !
+
+#### Implementing Machine Learning 
+
+In progress !
 
 
 Here are some additional information :
 
-- 🔭 I’m currently working on a Dash project, to show several plots on a single responsive page (map, bar and line charts, ...)
-- 🌱 I’m currently learning how to implement Machine Learning models (regressions, SVM, KNN, Naive Bayes, Decision Tree, Random Forest, K-means, DBscan)
+- 🔭 I’m very comfortable with Python, SQL, and the first Machine Learning techniques I learned (for now : uni- multivariate linear regressions, logistic regression)
+
+- 🌱 I’m currently learning how to implement other Machine Learning models (SVM, KNN, Naive Bayes, Decision Tree, Random Forest, K-means, DBscan)
 
 - 📫 How to reach me: https://www.linkedin.com/in/clementgaroux/
 

@@ -24,7 +24,7 @@ Work in progress !
 <br>
 <br>
 
-## Project #3 : Choosing best Machine Learning algorithm to solve a business case
+## Project #3 : Choosing and implementing a Machine Learning algorithm to solve a specific business case
 
 In progress !     
 <br>

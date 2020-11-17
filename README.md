@@ -32,7 +32,7 @@ In progress
 
 Here are some additional information :
 
-- 🔭 I’m very comfortable with Python, SQL, and the first Machine Learning techniques I learned (for now : uni- multivariate linear regressions, logistic regression and Decision Tree)
+- 🔭 I’m very comfortable with Python, SQL, and the first Machine Learning techniques I learned (for now : uni- multivariate Linear Regressions, Logistic Regression and Decision Tree)
 
 - 🌱 I’m currently learning how to implement other Machine Learning models (SVM, KNN, Naive Bayes, Random Forest, K-means, DBscan)
 

@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Clément, a future Data Analyst !
-#### Early 2020, after 7 years working as a Business Controller and Internal Auditor, I decided to retrain to the awesome field of Data Analytics and Data Science !
+#### Early 2020, after 7 years working as a Business Controller and Internal Auditor, I decided to retrain to the field of Data Analytics and Data Science !
 #### I am currently studying at a Coding school in Paris, and will get my certification in February 2021 (Python, SQL, Machine Learning, Statistics...).  
 
 #### Here below are some of the content I created.  

@@ -37,7 +37,7 @@ We chose to use 5 features, based on governmental Data, by city :
 - mean value of transactions
 
 Our outputs :
-- the scoring itself, shown on a map (Python Mapbox):
+- the scoring itself (from 1 to 100), shown on a map (Python Mapbox):
 
 ![Hackathon_1 - France Cities Scoring](https://user-images.githubusercontent.com/70572715/100021096-37ae6680-2de1-11eb-9280-a7360d7c0592.png)
 

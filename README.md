@@ -17,18 +17,44 @@ Abilities & tools used:
  
 ![Bar chart race 2020-11-15](https://user-images.githubusercontent.com/70572715/99188926-e22de600-275e-11eb-8461-5050a3e1fdf6.gif)  
 <br>
+<br>
 
-## Project #2 : Dash / Plotly project
+## Project #2 : my first 24-hours internal Hackathon
+
+Thursday 19th November - 10am -> Friday 20th Nov - 3pm 
+Topic : "the Real Estate market". 
+Required outputs : a creative problem, solved with a creative solution using Python and any Data Visualisation tool or library.
+
+Together with my 5 teammates, we decided to address the French market of real estate agencies, and help them define the best cities in France where to open a new agency.
+In less than 24 hours, as a team (remotely!), we implemented a Scoring of each city in France, to synthetize the local Real Estate market dynamics.
+We chose to use 5 features, based on governmental Data, by city :
+- % of working / active population
+- % of population growth
+- number of inhabitants
+- number of yearly transaction / inhabitant
+- mean value of transactions
+
+Are outputs :
+- the scoring itself, shown on a map
+
+
+
+- a comprehensive Dashboard (Tableau Software), which allows to analyse every feature on a filtered city
+
+
+## Project #3 : Choosing and implementing a Machine Learning algorithm to create a recommendation system
 
 Work in progress      
 <br>
 <br>
 
-## Project #3 : Choosing and implementing a Machine Learning algorithm to solve a specific business case
+## Project #4 : Dash / Plotly project
 
 In progress      
 <br>
 <br>
+
+
 
 Here are some additional information :
 

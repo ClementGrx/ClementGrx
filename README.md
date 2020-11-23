@@ -35,11 +35,11 @@ We chose to use 5 features, based on governmental Data, by city :
 - mean value of transactions
 
 Our outputs :
-- the scoring itself, shown on a map
+- the scoring itself, shown on a map:
 
 ![Hackathon_1 - France Cities Scoring](https://user-images.githubusercontent.com/70572715/100021096-37ae6680-2de1-11eb-9280-a7360d7c0592.png)
 
-Here are two maps representing two of the five features behind the scoring
+Here are two maps representing two of the five features behind the scoring:
 
 ![Hackathon_1 - Real Estate Sales Values](https://user-images.githubusercontent.com/70572715/100021114-41d06500-2de1-11eb-829b-bb6bf51c2bad.png)
 

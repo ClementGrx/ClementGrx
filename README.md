@@ -23,11 +23,11 @@ Abilities & tools used:
 ## Project #2 : my first 24-hours internal Hackathon
 
 - Thursday 19th November - 10am -> Friday 20th Nov - 3pm. 
-- Topic : "the Real Estate market". 
+- Topic : "the Real Estate Market". 
 - Required outputs : to define a problem, and to solve it with a creative solution using Python and any Data Visualisation tool or library.
 
-Together with my 5 teammates, we decided to address the French market of real estate agencies, and help them define the best cities in France where to open a new agency.
-In less than 24 hours, as a team (remotely!), we implemented a scoring of each city in France, to synthetize the local Real Estate market dynamics.
+Together with my 5 teammates, we decided to address the French housing market, and help real estate agencies define the best cities in France where to open a new agency.
+In less than 24 hours, as a team (remotely!), we implemented a scoring of each city in France, to synthetize the local real estate market dynamics.
 We processed all the data using Python (mainly Pandas).
 We chose to use 5 features, based on governmental Data, by city :
 - % of working / active population

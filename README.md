@@ -21,12 +21,13 @@ Abilities & tools used:
 
 ## Project #2 : my first 24-hours internal Hackathon
 
-Thursday 19th November - 10am -> Friday 20th Nov - 3pm 
-Topic : "the Real Estate market". 
-Required outputs : a creative problem, solved with a creative solution using Python and any Data Visualisation tool or library.
+- Thursday 19th November - 10am -> Friday 20th Nov - 3pm. 
+- Topic : "the Real Estate market". 
+- Required outputs : to define a problem, and to solve it with a creative solution using Python and any Data Visualisation tool or library.
 
 Together with my 5 teammates, we decided to address the French market of real estate agencies, and help them define the best cities in France where to open a new agency.
 In less than 24 hours, as a team (remotely!), we implemented a scoring of each city in France, to synthetize the local Real Estate market dynamics.
+We processed all the data using Python (mainly Pandas).
 We chose to use 5 features, based on governmental Data, by city :
 - % of working / active population
 - % of population growth
@@ -35,7 +36,7 @@ We chose to use 5 features, based on governmental Data, by city :
 - mean value of transactions
 
 Our outputs :
-- the scoring itself, shown on a map:
+- the scoring itself, shown on a map (Python Mapbox):
 
 ![Hackathon_1 - France Cities Scoring](https://user-images.githubusercontent.com/70572715/100021096-37ae6680-2de1-11eb-9280-a7360d7c0592.png)
 
@@ -45,7 +46,7 @@ Here are two maps representing two of the five features behind the scoring:
 
 ![Hackathon_1 - Active Pop](https://user-images.githubusercontent.com/70572715/100021128-4bf26380-2de1-11eb-8474-e500df29331f.png)
 
-- a dynamic Dashboard (on Tableau Software), which allows to analyse every feature on any chosen city in France
+- a dynamic Dashboard (on Tableau Software), which allows to analyse more features, for any chosen city in France.
 <br>
 
 

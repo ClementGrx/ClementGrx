@@ -3,7 +3,8 @@
 #### I am currently studying at a Coding school in Paris and will get my certification in February 2021 (Python, SQL, Machine Learning, Statistics...).  
 
 #### Here below are some of the content I created.  
-   
+
+<br>
 
 
 ## Project #1 : Projected Population by 2100

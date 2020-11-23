@@ -36,10 +36,14 @@ We chose to use 5 features, based on governmental Data, by city :
 
 Are outputs :
 - the scoring itself, shown on a map
+![Hackathon_1 - France Cities Scoring](https://user-images.githubusercontent.com/70572715/100021096-37ae6680-2de1-11eb-9280-a7360d7c0592.png)
 
+Here are two maps representing two of the five features behind the scoring
+![Hackathon_1 - Real Estate Sales Values](https://user-images.githubusercontent.com/70572715/100021114-41d06500-2de1-11eb-829b-bb6bf51c2bad.png)
+![Hackathon_1 - Active Pop](https://user-images.githubusercontent.com/70572715/100021128-4bf26380-2de1-11eb-8474-e500df29331f.png)
 
-
-- a comprehensive Dashboard (Tableau Software), which allows to analyse every feature on a filtered city
+- a dynamic Dashboard (on Tableau Software), which allows to analyse every feature on any chosen city in France
+<br>
 
 
 ## Project #3 : Choosing and implementing a Machine Learning algorithm to create a recommendation system

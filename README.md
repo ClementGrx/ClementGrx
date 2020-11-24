@@ -48,6 +48,12 @@ Here are two maps representing two of the five features behind the scoring:
 ![Hackathon_1 - Active Pop](https://user-images.githubusercontent.com/70572715/100021128-4bf26380-2de1-11eb-8474-e500df29331f.png)
 
 - a dynamic Dashboard (on Tableau Software), which allows to analyse more features, for any chosen city in France.
+![Hackathon_dash_1](https://user-images.githubusercontent.com/70572715/100077544-c4d5d780-2e42-11eb-910d-f28a35a58b08.png)
+
+![Hackathon_dash_2](https://user-images.githubusercontent.com/70572715/100077554-c8695e80-2e42-11eb-975c-deffac361daf.png)
+
+![Hackathon_dash_3](https://user-images.githubusercontent.com/70572715/100077565-cb644f00-2e42-11eb-9825-d52c75f532cb.png)
+
 <br>
 
 

@@ -73,9 +73,9 @@ In progress
 
 Here are some additional information :
 
-- 🔭 I’m very comfortable with Python, SQL, and the first Machine Learning techniques I learned (for now : uni- multivariate Linear Regressions, Logistic Regression and Decision Tree)
+- 🔭 I’m very comfortable with Python, SQL, and the first Machine Learning techniques I learned 
 
-- 🌱 I’m currently learning how to implement other Machine Learning models (KNN, Random Forest, K-means...)
+- 🌱 I’m currently learning how to use Natural Language Processing
 
 - 📫 How to reach me: https://www.linkedin.com/in/clementgaroux/
 

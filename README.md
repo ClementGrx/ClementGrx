@@ -41,12 +41,6 @@ Our outputs :
 
 ![Hackathon_1 - France Cities Scoring](https://user-images.githubusercontent.com/70572715/100021096-37ae6680-2de1-11eb-9280-a7360d7c0592.png)
 
-Here are two maps representing two of the five features behind the scoring:
-
-![Hackathon_1 - Real Estate Sales Values](https://user-images.githubusercontent.com/70572715/100021114-41d06500-2de1-11eb-829b-bb6bf51c2bad.png)
-
-![Hackathon_1 - Active Pop](https://user-images.githubusercontent.com/70572715/100021128-4bf26380-2de1-11eb-8474-e500df29331f.png)
-
 - a dynamic Dashboard (on Tableau Software), which allows to analyse more features, for any chosen city in France.
 ![Hackathon_dash_1](https://user-images.githubusercontent.com/70572715/100077544-c4d5d780-2e42-11eb-910d-f28a35a58b08.png)
 
